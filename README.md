@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Asher 👋
 
-<!--
-**Ade12Donald/Ade12Donald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student at UNILAG who'd rather build than study.
 
-Here are some ideas to get you started:
+- 🔧 Backend: JavaScript, Express, MongoDB
+- 🤖 Embedded/IoT: Arduino + C++
+- 🎨 3D & Game Dev: Blender, Unity, UE5
+- 📚 Also comfortable in C — occasionally cursed by pointers
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚧 What I've been building
+
+- **Geotend (Geo-Wall)** — QR-code + GPS geofence-based attendance system, with JWT auth, OTP verification, and rotating QR codes.
+- **Unisphere** — AI-powered campus digital twin/assistant concept for UNILAG, combining Flutter, Unity, Blender, and OpenAI/Gemini APIs.
+- **Occupancy-Driven Energy Cutoff System** — Arduino-based automation using PIR motion sensing and CT clamp current monitoring to auto-cutoff idle loads.
+
+---
+
+### 🐾 A bit about me
+
+I'm powered by anime, robots, and dogs — probably in that order some days.
+
