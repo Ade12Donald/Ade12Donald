@@ -13,7 +13,7 @@ Computer Engineering student at UNILAG who'd rather build than study.
 
 - **Geotend (Geo-Wall)** — QR-code + GPS geofence-based attendance system, with JWT auth, OTP verification, and rotating QR codes.
 - **Unisphere** — AI-powered campus digital twin/assistant concept for UNILAG, combining Flutter, Unity, Blender, and OpenAI/Gemini APIs.
-- **Occupancy-Driven Energy Cutoff System** — Arduino-based automation using PIR motion sensing and CT clamp current monitoring to auto-cutoff idle loads.
+- **Occupancy-Driven Energy Cutoff System(still working on the name)** — Arduino-based automation using PIR motion sensing and CT clamp current monitoring to auto-cutoff idle loads.
 
 ---
 
