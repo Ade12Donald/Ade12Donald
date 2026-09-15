@@ -1,4 +1,4 @@
-# Hi, I'm Asher 👋
+# Hi, I'm Donald 👋
 
 Computer Engineering student at UNILAG who'd rather build than study.
 
