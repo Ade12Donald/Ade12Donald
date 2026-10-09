@@ -20,7 +20,6 @@ const myStack = {
   backend: ["Node.js", "Express", "MongoDB"],
   frontend: ["React", "Vite"],
   creative: ["Blender", "Unity"],
-  levelingUp: ["Mongoose", "React Router"],
 };
 ```
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -58,4 +57,4 @@ An occupancy-driven energy saver for a UNILAG engineering challenge.
 
 ---
 
-<p ><i>Always building. Occasionally debugging. Mostly both at once.</i></p>
+<p><i>Always building. Occasionally debugging. Mostly both at once.</i></p>
