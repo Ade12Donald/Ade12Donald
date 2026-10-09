@@ -14,7 +14,15 @@
 ---
 
 ## 🛠️ Tech I use
-
+```js
+const myStack = {
+  languages: ["C++", "JavaScript"],
+  backend: ["Node.js", "Express", "MongoDB"],
+  frontend: ["React", "Vite"],
+  creative: ["Blender", "Unity"],
+  levelingUp: ["Mongoose", "React Router"],
+};
+```
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -24,8 +32,8 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
----
 
+---
 ## 🚀 Things I've built (and still working on)
 
 ### 🤝 SkillSwap *(in progress)*
